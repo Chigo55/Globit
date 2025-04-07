@@ -1,0 +1,6 @@
+numpy==2.2.3
+opencv_python==4.10.0.84
+torch==2.4.1+cu118
+torchmetrics==1.6.1
+torchvision==0.19.1+cu118
+ultralytics==8.2.92
