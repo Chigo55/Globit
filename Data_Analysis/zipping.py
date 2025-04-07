@@ -10,7 +10,7 @@ def zip_folders(folder):
         f"Data_Analysis/runs/{folder}/{idx+1}_{opt}" for idx, opt in enumerate(optimizers)]
 
     # 출력 ZIP 파일 경로 설정
-    output_zip_file = f"./Data_Analysis/runs/zip{folder}.zip"
+    output_zip_file = f"./Data_Analysis/runs/zip/{folder}.zip"
 
     # 압축 대상 폴더 목록 출력
     print("📝 압축 대상 폴더:")
