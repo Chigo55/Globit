@@ -173,7 +173,4 @@ cython_debug/
 .pypirc
 
 # Custom gitignore
-*.jpg
-*.png
-
 !*.gitkeep
